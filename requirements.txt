@@ -1,0 +1,11 @@
+requests==2.25.1
+requests-html==0.10.0
+requests-file
+praw
+pysocks
+selenium
+pymongo
+sweetviz
+jupyter
+chart_studio
+nltk
